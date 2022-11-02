@@ -1,0 +1,4 @@
+<p>Thanks for your using <strong>TinyMCE!</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt;"><strong>I will come <span style="color: #e03e2d;">back</span> to you.</strong></span></p>
+<p>&nbsp;</p>
